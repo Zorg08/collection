@@ -1,4 +1,4 @@
-#fill in IP and path-to-dictionary
+#fill in IP and path-to-wordlist
 import requests
 from bs4 import BeautifulSoup
 passfile = "PATH\\rockyou.txt"
