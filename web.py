@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 passfile = "PATH\\rockyou.txt"
 
-req = requests.get("http://<IP>:10084//wp-admin")
+req = requests.get("http://<IP>://wp-admin")
 h = req.headers
 r = req.content
 #print("headers :", h)
