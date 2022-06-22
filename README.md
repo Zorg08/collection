@@ -1,2 +1,2 @@
 # collection
-Initial collection of scripts
+Small task scripts
