@@ -1,3 +1,5 @@
+//gcc -fPIC -shared -o shell.so shell.c -nostartfiles
+//file shell.so
 #include <stdio.h>
 #include <sys/types.h>
 #include <stdlib.h>
